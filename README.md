@@ -12,7 +12,7 @@ Building useful things and learning in public.
 
 - 📍 Based in **Poznań**
 - 🏢 Working at **MGI Polska**
-- 🌐 [Website](https://kaziuxdd.github.io/Kacper-Kazmierczak-CV/)
+- 🌐 [MyPortfolio](https://kaziuxdd.github.io/Kacper-Kazmierczak-CV/)
 
 ## HTML, Css, JS, React Js, Next.js
 
@@ -23,12 +23,8 @@ Building useful things and learning in public.
 - **[Kacper-Kazmierczak-CV](https://github.com/KaziuXDD/Kacper-Kazmierczak-CV)** — It's a site about me my little portfolio/CV  · ⭐ 0
 - **[SimonSays](https://github.com/KaziuXDD/SimonSays)** — Simple game of Simon Says made for course &quot;The Complete Full-Stack Web Development Bootcamp&quot; on Udemy · ⭐ 0
 
-## ka.kazmierczak7@gmail.com
+## Contact me
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=kaziuxdd&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F245565808%3Fv%3D4" alt="kaziuxdd social visual" />
-</p>
+- [Gmail](ka.kazmierczak7@gmail.com)
 
-<a href="https://github.com/kaziuxdd">GitHub</a> · <a href="https://kaziuxdd.github.io/Kacper-Kazmierczak-CV/">Website</a>
 
-<p align="center"><sub>Kacper Kaźmierczak · <a href="https://www.gitskins.com/readme-generator?template=community-recruiter-ready-remix-dl0a">Recruiter-ready Remix</a> template by <a href="https://www.gitskins.com/creators/osimxon992-png">@osimxon992-png</a>, a remix of <a href="https://www.gitskins.com/readme-generator?template=recruiter">Recruiter-ready</a> by GitSkins · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
