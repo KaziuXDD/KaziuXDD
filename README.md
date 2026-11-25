@@ -25,6 +25,6 @@ Building useful things and learning in public.
 
 ## Contact me
 
-- [Gmail](ka.kazmierczak7@gmail.com)
+- 📧 Gmail - ka.kazmierczak7@gmail.com
 
 
